@@ -1,5 +1,5 @@
 #------------- Programmkopf ---------------#
-# Autor: Marticc Igor
+# Autor: Martic Igor
 # Version: 1.0.0
 # Datum: 20.06.2022
 # Titel: Dateienordnungsprogramm
